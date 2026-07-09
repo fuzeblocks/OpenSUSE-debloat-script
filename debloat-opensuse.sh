@@ -84,6 +84,10 @@ GAMES=(
   atomix
   nibbles
   robots
+  ksudoku
+  kmahjongg
+  kreversi
+  kmines
   "kdegames*"
   "plasma-games*"
 )
